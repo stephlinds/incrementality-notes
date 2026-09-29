@@ -16,7 +16,7 @@ The distinction matters because a high-intent list can look excellent while stil
 
 ## The Propensity Trap
 
-An intent score is usually a propensity score in operational clothing. It ranks accounts by expected conversion probability. That is useful for prioritization, but it does not prove that a specific GTM action created the conversion.
+An intent score is usually a conversion-propensity score in operational clothing. This is not the propensity score from causal inference, which models who gets treated. An intent score ranks accounts by expected conversion probability. That is useful for prioritization, but it does not prove that a specific GTM action created the conversion.
 
 For incrementality, the important groups are:
 

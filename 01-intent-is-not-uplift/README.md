@@ -1,4 +1,4 @@
-# 01 — Your intent score is a propensity score
+# 01 — Your intent score ranks conversion propensity, not uplift
 
 Intent scores answer "who is likely to buy." They do not answer "will contacting this account cause a sale." This piece shows the difference on synthetic CRM data where the true effect of outreach on every account is known.
 

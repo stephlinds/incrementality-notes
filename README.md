@@ -8,7 +8,7 @@ Most targeting scores, intent signals, and attribution dashboards answer "who is
 
 | # | Piece | Status |
 |---|-------|--------|
-| 01 | [When high intent doesn't matter: your intent score is a propensity score](01-intent-score-is-a-propensity-score/) | Published |
+| 01 | [When high intent doesn't matter: your intent score ranks conversion propensity, not uplift](01-intent-is-not-uplift/) | Published |
 
 More pieces will be added here as they ship.
 
