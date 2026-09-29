@@ -1,0 +1,16 @@
+# Generated data: rebuilt from the seeded generator
+data/
+
+# Python and notebook caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.matplotlib-cache/
+
+# Local environments
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
