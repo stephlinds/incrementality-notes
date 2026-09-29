@@ -1,6 +1,6 @@
 # 01 — Your intent score ranks conversion propensity, not uplift
 
-Intent scores answer "who is likely to buy." They do not answer "will contacting this account cause a sale." This piece shows the difference on synthetic CRM data where the true effect of outreach on every account is known.
+Intent scores help answer "who is likely to book a meeting." They do not answer "will contacting this account create a meeting that would not have happened anyway." This piece shows the difference on synthetic CRM data where the true effect of outreach on every account is known.
 
 **Read the piece:** [When High Intent Doesn't Matter](writeup/when_high_intent_doesnt_matter.md)
 
